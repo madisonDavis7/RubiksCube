@@ -19,9 +19,12 @@ java cube.java
 Uppercase for normal and lowercase for prime
 
 Please enter the move you would like to perform (q to quit)(z to randomize):
+
 U
+
 Solution: u
 --------------------------------
+```
 r|r|r
 r|r|r
 r|r|r
@@ -45,7 +48,7 @@ y|y|b
 g|w|w
 g|w|w
 g|w|w
-
+```
 --------------------------------
 Please enter the move you would like to perform (q to quit)(z to randomize):
 ...
