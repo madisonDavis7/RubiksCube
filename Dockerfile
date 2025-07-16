@@ -4,7 +4,7 @@ FROM openjdk:21
 # Set the working directory inside the container
 WORKDIR /app
 
-# Copy your source code into the container
+# Copy source code into the container
 COPY src/Cube.java .
 
 # Compile the Java file
